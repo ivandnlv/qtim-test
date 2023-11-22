@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'TTCommons';
+  src: url('~/fonts/TTCommons-Regular.ttf') format('ttf');
+  font-style: normal;
+  font-display: swap;
+}
