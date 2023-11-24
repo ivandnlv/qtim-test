@@ -12,4 +12,8 @@
   font-family: 'TTCommons', sans-serif;
   font-weight: 400;
 }
+
+.layout {
+  margin-bottom: 100px;
+}
 </style>
