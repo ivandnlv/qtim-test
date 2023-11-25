@@ -26,10 +26,6 @@ setAllPosts(allPosts.value);
 <style lang="scss" scoped>
 .articles {
   margin-top: 120px;
-  h1 {
-    font-size: 84px;
-    font-weight: 400;
-  }
   .posts {
     margin-top: 39px;
   }

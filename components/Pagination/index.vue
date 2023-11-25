@@ -48,7 +48,7 @@ watch(currentPage, () => {
 
 <style lang="scss" scoped>
 .pagination {
-  margin-top: 20px;
+  margin-top: 50px;
   width: 100%;
   display: flex;
   gap: 8px;
