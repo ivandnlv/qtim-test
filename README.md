@@ -6,6 +6,7 @@
 - Vue 3 (script setup syntax);
 - Typescript;
 - Scss;
+- Pinia;
 
 ![image](https://github.com/ivandnlv/qtim-test/assets/91759945/7e6ff210-5500-47fc-92a9-f4fd14d8a981)
 
